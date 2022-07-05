@@ -220,3 +220,32 @@ section#donate_plan_s {
   color: gray;
   text-align: left;
 }
+.top_box {
+}
+
+div#secound_box {
+    background-color: pink;
+}
+
+div#trithd_box {
+    background-color: palegreen;
+}
+/**===========================================================
+               
+===========================================================**/
+footer#footer_s {
+  background-color: black;
+  color: white;
+}
+
+.f_contain {
+  width: 78%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 51px 0px;
+}
+
+.connect_info {
+  width: 18%;
+}
