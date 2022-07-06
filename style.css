@@ -249,3 +249,40 @@ footer#footer_s {
 .connect_info {
   width: 18%;
 }
+.connect_info {
+  /* border-right: 3px solid orange; */
+}
+
+.connect_info h3 {
+  font-size: 26px;
+  border-bottom: 3px solid orange;
+  display: inline-block;
+  margin-bottom: 22px;
+}
+
+.connect_info ul {
+  list-style: none;
+}
+
+.connect_info ul li p {
+  margin-top: 12px;
+  display: inline-block;
+}
+
+.connect_info ul li a {
+  text-decoration: none;
+  color: orange;
+}
+li.social_link {
+  display: inline-block;
+  margin-right: 17px;
+}
+
+li.social_link a i {
+  font-size: 21px;
+  color: #ff2d08;
+}
+
+li.social_link a i:hover {
+  color: white;
+}
